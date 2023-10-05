@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"contocorrente","c":"ContoCorrente","l":"ContoCorrente()","u":"%3Cinit%3E()"},{"p":"contocorrente","c":"ContoCorrente","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
